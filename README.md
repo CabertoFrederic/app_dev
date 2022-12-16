@@ -29,7 +29,7 @@ My first repository
 
 ### An unprecedented cinematic journey ten years in the making and spanning the entire Marvel Cinematic Universe, Marvel Studios' "Avengers: Infinity War" brings to the screen the ultimate, deadliest showdown of all time. As the Avengers and their allies have continued to protect the world from threats too large for any one hero to handle, a new danger has emerged from the cosmic shadows: Thanos. A despot of intergalactic infamy, his goal is to collect all six Infinity Stones, artifacts of unimaginable power, and use them to inflict his twisted will on all of reality. Everything the Avengers have fought for has led up to this moment - the fate of Earth and existence itself has never been more uncertain.
 
-#### Starring: Robert Downey Jr. Chris Evans Scarlett Johansson Chris Hemsworth 	Mark Ruffalo Jeremy Renner
+#### Starring: Robert Downey Jr. , Chris Evans, Scarlett Johansson, Chris Hemsworth, Mark Ruffalo, Jeremy Renner, Benedict Cumberbatch, Tom Holland, Chadwick Boseman, Josh Brolin
 #### Director: Joss Whedon
 
 ## 4. Avengers: Endgame
@@ -39,5 +39,5 @@ My first repository
 
 ### The grave course of events set in motion by Thanos that wiped out half the universe and fractured the Avengers ranks compels the remaining Avengers to take one final stand in Marvel Studios' grand conclusion to twenty-two films, Avengers: Endgame.
 
-#### Starring: Robert Downey Jr. Chris Evans Scarlett Johansson Chris Hemsworth 	Mark Ruffalo Jeremy Renner, Benedict Cumberbatch, Tom Holland, Chadwick Boseman, Josh Brolin
+#### Starring: Robert Downey Jr. , Chris Evans, Scarlett Johansson, Chris Hemsworth, Mark Ruffalo, Jeremy Renner, Benedict Cumberbatch, Tom Holland, Chadwick Boseman, Josh Brolin
 #### Director: Anthony Russo, Joe Russo
